@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Acti_14 {
+public class SaludoIdiomas {
 
 	public static void main(String[] args) {
 	
